@@ -1,0 +1,23 @@
+{
+  "name": "io.github.singlerr",
+  "version": "1.0.0",
+  "description": "For yourssu",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Singlerr/Yourssu_nodejs.git"
+  },
+  "author": "singlerr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Singlerr/Yourssu_nodejs/issues"
+  },
+  "homepage": "https://github.com/Singlerr/Yourssu_nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
